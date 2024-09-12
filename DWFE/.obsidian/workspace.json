@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3e1ef208d908226",
+        "id": "a0dbd7155f673256",
         "type": "tabs",
         "children": [
           {
-            "id": "01da854e8473ee15",
+            "id": "cc5abbac1ca2f678",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "a0a3803a897ca5f6",
+            "id": "4aa9f31858a78c2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MDA.md",
+                "file": "Recherche d'emplois.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,20 +33,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "887495fef1b342b0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "bedb1311926cbf78",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -112,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MDA.md",
+                "file": "Recherche d'emplois.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MDA.md",
+                "file": "Recherche d'emplois.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MDA.md"
+                "file": "Recherche d'emplois.md"
               }
             }
           }
@@ -170,13 +156,18 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad8cd9019519bd4d",
+  "active": "4aa9f31858a78c2b",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "MDA.md",
+    "Recherche d'emplois.md",
+    "New folder",
+    "public",
+    "Untitled 1.md",
     "Welcome.md"
   ]
 }
