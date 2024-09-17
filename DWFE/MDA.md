@@ -3,3 +3,6 @@
 	* https://app.daily.dev/
 * Exemple de journée type:
 	* Début travail: 8h
+
+* Youtube
+* 
