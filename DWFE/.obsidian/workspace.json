@@ -20,31 +20,19 @@
             }
           },
           {
-            "id": "4aa9f31858a78c2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Recherche d'emplois/Recherche d'emplois.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "126983737a5fc874",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recherche d'emplois/Recherche d'emplois.md",
+                "file": "MDA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recherche d'emplois/Recherche d'emplois.md",
+                "file": "MDA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recherche d'emplois/Recherche d'emplois.md",
+                "file": "MDA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recherche d'emplois/Recherche d'emplois.md"
+                "file": "MDA.md"
               }
             }
           }
@@ -173,9 +161,9 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "ad8cd9019519bd4d",
+  "active": "126983737a5fc874",
   "lastOpenFiles": [
-    "Plan d'actions accompagnement.md",
+    "Recherche d'emplois/Plan d'actions accompagnement.md",
     "Recherche d'emplois/Recherche d'emplois.md",
     "Recherche d'emplois/Untitled.md",
     "Recherche d'emplois",
